@@ -62,9 +62,9 @@
 
 # 💻 Example Session
 
-# markdown
+# 
 
-# Copy code
+# 
 
 # Please enter your initial account balance: 500
 
