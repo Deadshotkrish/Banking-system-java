@@ -46,8 +46,6 @@
 
 # bash
 
-# Copy code
-
 # javac BankAccount.java
 
 # 
@@ -55,8 +53,6 @@
 # Run the program:
 
 # bash
-
-# Copy code
 
 # java BankAccount
 
